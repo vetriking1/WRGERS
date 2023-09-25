@@ -11,10 +11,10 @@ const router = createBrowserRouter([{
   path: "/WARGERS/",
 element: <App/>,
     children: [{
-    path: "/pages/",
+    path: "/pages3/",
       element: <Signup />},
       {
-        path: "/pages/l",
+        path: "/pages3/l",
       element: <Login />
       },
 ],
